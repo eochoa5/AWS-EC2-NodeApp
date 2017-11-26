@@ -22,7 +22,8 @@ SSH:
   ./configure && make && sudo make install
 
   start your node server file 
-  npm start &
+  
+  sudo npm start &
   
   
   
